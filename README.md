@@ -1,8 +1,11 @@
-# Siren
+# Leoheng
 WordPress Theme
 
-Siren 是基于 Akina 主题修改而来的，感谢[Fuzzz](http://www.akina.pw/)写出这么棒的主题（[查看原始主题](http://www.akina.pw/themeakina)）。
+leoheng 是基于 Akina 主题修改而来的，感谢[Fuzzz](http://www.akina.pw/)写出这么棒的主题（[查看原始主题](http://www.akina.pw/themeakina)）。
 应该属于Akina的娱乐版本吧，我也不知道为什么要改成这样，可能因为好看吧。
+
+## 演示地址
+demo(https://www.leoheng.com/)
 
 最新版本：2.0.6.170420<br>
 更新摘要：<br>
