@@ -5,7 +5,7 @@ leoheng 是基于 Akina 主题修改而来的，感谢[Fuzzz](http://www.akina.p
 应该属于Akina的娱乐版本吧，我也不知道为什么要改成这样，可能因为好看吧。
 
 ## 演示地址
-demo(https://www.leoheng.com/)
+[demo](https://www.leoheng.com/)
 
 最新版本：2.0.6.170420<br>
 更新摘要：<br>
@@ -87,4 +87,4 @@ Pjax(ajax)全站数据异步获取，支持大部分背景音乐插件不间断�
 更多炫酷功能。
 
 ## 事项
-GIT下载文件夹默认带有<code>master</code>后缀，自行重命名为<code>siren</code>再上传。
+GIT下载文件夹默认带有<code>master</code>后缀，自行重命名为<code>leoheng</code>再上传。
